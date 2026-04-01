@@ -47,7 +47,7 @@ Analyze equality scores across different factories and job roles to identify pot
 
 ### 📸 Output
 
-![Excel Analysis](screenshots/equality-table.png)
+![Excel Analysis](screenshots/equality table.png)
 
 ### 📈 Key Insights
 
