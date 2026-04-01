@@ -47,7 +47,7 @@ Analyze equality scores across different factories and job roles to identify pot
 
 ### 📸 Output
 
-![Excel Analysis](screenshots/equality table.png)
+![Excel Analysis](screenshots/equality_table.png)
 
 ### 📈 Key Insights
 
@@ -74,7 +74,7 @@ Analyze operational efficiency by studying downtime across factories and device 
 
 ### 📸 Dashboard
 
-![Tableau Dashboard](screenshots/tableau-dashboard.png)
+![Tableau Dashboard](screenshots/tableau_dashboard.png)
 
 ### 📈 Key Insights
 
